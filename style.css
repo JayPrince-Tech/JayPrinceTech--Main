@@ -16,6 +16,7 @@ h2 {
   color: gold;
   text-align: center;
   display: flex;
+  list-style: none;
 }
 
 .navbars {
