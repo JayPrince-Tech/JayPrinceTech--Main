@@ -12,7 +12,10 @@ h2 {
 
 .nav-links {
   color: gold;
+  text-align: center;
+display:flex;
 }
 
-.nav-bar {
-  
+.navbars {
+  text-align: center;
+}
