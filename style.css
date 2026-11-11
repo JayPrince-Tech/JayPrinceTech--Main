@@ -13,13 +13,17 @@ h2 {
 }
 
 .nav-links {
-  color: gold;
   text-align: center;
   display: flex;
   list-style: none;
 }
 
-.navbars {
+.nav-links a {
+  color: gold;
+  padding:30px;
+}
+  
+  .navbars {
   text-align: center;
 }
 
