@@ -14,7 +14,7 @@ h2 {
 
 h3 {
    color: white;
-   text-align:center;
+   text-align: center;
 }
 
 .nav-links {
@@ -26,6 +26,7 @@ h3 {
 .nav-links a {
     color: gold;
     padding:30px;
+   text-align: center;
 }
   
   .navbars {
