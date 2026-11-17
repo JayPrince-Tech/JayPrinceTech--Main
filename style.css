@@ -61,8 +61,8 @@ h3 {
 }
 
 .small-image img {
- width: 60%;
-    height: 180px;
+ width: 40%;
+    height: 250px;
     object-fit: cover;
     border-radius: 8px;
     border: 2px solid gold;
