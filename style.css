@@ -69,3 +69,8 @@ h3 {
 margin: 40px;
 justify-content: center;
 }
+
+.small-image-container {
+    display: flex;
+    justify-content: center;
+}
